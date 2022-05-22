@@ -19,7 +19,7 @@ public class Perro {
 		return this.age;
 	}
 
-	public String ladrar() {
+	public static String ladrar() {
 		return "GUAUUUUUUUUUU";
 	}
 
