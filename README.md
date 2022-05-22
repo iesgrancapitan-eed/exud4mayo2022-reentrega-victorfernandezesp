@@ -57,8 +57,8 @@
 ## GitHub Pages
 
 23. Sube el repositorio a GitHub (Añade aquí la url) y activa el hosting (GitHub Pages)(Añade aquí la url). Selecciona la carpeta docs como inicio
+[link](https://iesgrancapitan-eed.github.io/exud4mayo2022-reentrega-victorfernandezesp/)
 
-https://iesgrancapitan-eed.github.io/exud4mayo2022-reentrega-victorfernandezesp/
 
 ## BitBucket
 
