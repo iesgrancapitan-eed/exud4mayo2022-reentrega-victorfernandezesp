@@ -1,11 +1,10 @@
 package com.vfe.eed.examen.OptimizacionYDocumentacion;
 
-public class Perro {
+public class Perro extends Mascota {
 	private int age;
-	private String name;
-
 	public Perro(String name, int age) throws EdadErroneaException {
-		setAge(age);
+		super();
+    setAge(age);
 		this.name = name;
 	}
 
@@ -21,10 +20,6 @@ public class Perro {
 
 	public static String ladrar() {
 		return "GUAUUUUUUUUUU";
-	}
-
-	public String getName() {
-		return name;
 	}
 
 }

@@ -26,7 +26,9 @@
 
 12. Extrae una superclase "Mascota" a partir de la clase "Perro". Incluye todo lo relacionado con el nombre de la mascota.
 13. Añade el diálogo de la refactorización con todo debidamente marcado
-
+![Mascota1](Mascota1.jpg)
+![Mascota2](Mascota2.jpg)
+![Mascota3](Mascota3.jpg)
 
 
 14. Realiza un commit con el mensaje "refactor: Mascota "
