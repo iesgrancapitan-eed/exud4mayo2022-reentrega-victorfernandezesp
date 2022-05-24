@@ -58,9 +58,16 @@
 
 23. Sube el repositorio a GitHub (Añade aquí la url) y activa el hosting (GitHub Pages)(Añade aquí la url). Selecciona la carpeta docs como inicio
 [link](https://iesgrancapitan-eed.github.io/exud4mayo2022-reentrega-victorfernandezesp/)
+<<<<<<< HEAD
 
 
 ## BitBucket
 
 24. Crea en tu servidor Bitbucket una copia del repositorio actual. Añade aquí la url para que al menos yo pueda verla (mlmagarin@iesgrancapitan.org). El mismo repositorio ha de estar en ambos servidores 
 [link](https://bitbucket.org/pwqcbl/reentregaexamen/src/main/)
+=======
+## BitBucket
+
+24. Crea en tu servidor Bitbucket una copia del repositorio actual. Añade aquí la url para que al menos yo pueda verla (mlmagarin@iesgrancapitan.org). El mismo repositorio ha de estar en ambos servidores 
+[link](https://bitbucket.org/pwqcbl/reentregaexamen/src/main/)
+>>>>>>> a25b674a599f8607a8408a971f6ded8ef11e8bb1
